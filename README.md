@@ -1,0 +1,3 @@
+# voikko
+
+Dockerized Voikko library
